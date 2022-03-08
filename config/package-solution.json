@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "jquery-acc-client-side-solution",
+    "id": "fe659264-883c-4ddf-bd14-310fa7d9de38",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "jquery-acc description"
+      },
+      "longDescription": {
+        "default": "jquery-acc description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "jquery-acc Feature",
+        "description": "The feature that activates elements of the jquery-acc solution.",
+        "id": "92a2e2ac-4fa1-404b-9e70-308d0665732a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/jquery-acc.sppkg"
+  }
+}
